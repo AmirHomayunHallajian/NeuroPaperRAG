@@ -147,13 +147,4 @@ docker compose up --build
 - chunking strategy comparison
 - CI tests with GitHub Actions
 
-## Portfolio / Job-Relevance Note
-This project directly demonstrates:
-- LLM application development
-- RAG pipeline design
-- Python engineering
-- semantic search
-- vector databases
-- user-facing AI app development
-- reproducible deployment
-- product-oriented thinking
+
