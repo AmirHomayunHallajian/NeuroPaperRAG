@@ -1,0 +1,9 @@
+services:
+  neuropaper-rag:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - .env
